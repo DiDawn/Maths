@@ -48,4 +48,4 @@ def perfect_square(multiplied=False):
             print(f'nuuul! result = {a}')
 
 
-perfect_square(multiplied=True)
+perfect_square(multiplied=False)
